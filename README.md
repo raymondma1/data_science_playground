@@ -5,3 +5,7 @@ messing around with pandas and basic analysis.
     - KNN classifer 
     - cross validation
     - comparing KNN model with Naive Bayes
+
+2. Labs
+    -Regression using statsmodel and Sklearn & Regularization
+    
