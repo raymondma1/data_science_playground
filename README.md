@@ -7,5 +7,5 @@ messing around with pandas and basic analysis.
     - comparing KNN model with Naive Bayes
 
 2. Labs
-    -Regression using statsmodel and Sklearn & Regularization
+    - Regression using statsmodel and Sklearn & Regularization
     
