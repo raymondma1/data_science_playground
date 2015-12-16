@@ -9,3 +9,15 @@ messing around with pandas and basic analysis.
 2. Labs
     - Regression using statsmodel and Sklearn & Regularization
     
+3. Kaggle
+    - Titanic Survivors (Logistic Regression)
+
+4. UCI Breast Cancer Dataset
+    - SVM
+    - Random Forest
+    - Decision Tree
+    - Ensemble Classifier
+    - Grid Search
+    - Class Imbalacnce (Smote)
+    - Learning Curve
+    - Roc Curve
