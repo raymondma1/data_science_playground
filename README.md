@@ -23,7 +23,7 @@ messing around with pandas and basic analysis.
     - Roc Curve
 
 5. Wholesale Customers (clustering algorithms / unsupervised learning)
-    -PCA
-    -KMEANS
-    -Mean Shift
-    -Agglomerative Clustering
+    - PCA
+    - KMEANS
+    - Mean Shift
+    - Agglomerative Clustering
