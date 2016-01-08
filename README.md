@@ -21,3 +21,9 @@ messing around with pandas and basic analysis.
     - Class Imbalacnce (Smote)
     - Learning Curve
     - Roc Curve
+
+5. Wholesale Customers (clustering algorithms / unsupervised learning)
+    -PCA
+    -KMEANS
+    -Mean Shift
+    -Agglomerative Clustering
