@@ -8,6 +8,7 @@ messing around with pandas and basic analysis.
 
 2. Labs
     - Regression using statsmodel and Sklearn & Regularization
+    - Beer Recommendation System (cosine similarity) 
     
 3. Kaggle
     - Titanic Survivors (Logistic Regression)
