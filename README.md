@@ -28,3 +28,15 @@ messing around with pandas and basic analysis.
     - KMEANS
     - Mean Shift
     - Agglomerative Clustering
+
+6. Airbnb Kaggle compeition (placed in top 20%)
+    - Handling of user sessions data (some users have sessions data some dont)
+    - Joining of mutliple datasets
+    - Xgboost
+    - Grid Search
+    - Probablity prediction
+
+7. Classifier for classified company
+    - Handling of user sessions data (some users have sessions data some dont)
+    - Decision Tree
+
