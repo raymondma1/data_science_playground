@@ -40,3 +40,9 @@ messing around with pandas and basic analysis.
     - Handling of user sessions data (some users have sessions data some dont)
     - Decision Tree
 
+8. NLP (used for self-learning and brushing up on process)
+    - Stemming
+    - Word Segmentation
+    - TF-IDF
+    - Sentimient Analysis
+
